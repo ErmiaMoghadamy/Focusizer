@@ -4,7 +4,7 @@
 
 | Idea (Logo) | Menu (Dark) | Menu (Light) | Timer |
 |:-----------:|:-----------:|:------------:|:-----:|
-| <img src="Idea.jpeg" width="180"> | <img src="Menu-dark.jpeg" width="180"> | <img src="Menu-light.jpeg" width="180"> | <img src="Timer.jpeg" width="180"> |
+| <img src="Artifact/screenshots/Idea.jpeg" width="180"> | <img src="Artifact/screenshots/Menu-dark.jpeg" width="180"> | <img src="Artifact/screenshots/Menu-light.jpeg" width="180"> | <img src="Artifact/screenshots/Timer.jpeg" width="180"> |
 
 > **A cross-platform productivity app that helps you focus, track tasks, earn rewards, and build better habits — all while learning advanced Flutter concepts.**
 
