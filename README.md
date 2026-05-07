@@ -1,4 +1,4 @@
-# Focusizer / Taskizer 🎯
+# Focusizer / TamarkozYaar 🎯
 
 ## 📸 Screenshots
 
